@@ -33,7 +33,7 @@ const Wallet: NextPage = () => {
       .catch((err) => {
         console.log(err);
       });
-  }, [account, router, network]);
+  }, [account, router, network, setBalance]);
 
   const airdrop = async () => {
     setAirdropLoading(true);
