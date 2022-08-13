@@ -1,4 +1,4 @@
-#SolWallet
+# SolWallet
 
 ![](./public/wallet-photo.png)
 
